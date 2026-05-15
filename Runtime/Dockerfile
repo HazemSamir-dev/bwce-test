@@ -1,3 +1,3 @@
-FROM frosati78/tibco:bwce2.6.1
+FROM chrollolucifer700/tibco-bw:latest
 
 ADD testApp_1.0.0.ear /
